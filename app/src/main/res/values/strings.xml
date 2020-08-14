@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SyneboTest</string>
+    <string name="tab_text_1">Profile</string>
+    <string name="tab_text_2">News</string>
+    <string name="name">Liekar Dmytro</string>
+    <string name="read_article">Last read article:</string>
+
+</resources>
